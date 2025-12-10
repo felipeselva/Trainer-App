@@ -6,12 +6,12 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // 1. Suas chaves (Mantenha as suas aqui)
 const firebaseConfig = {
-apiKey: "AIzaSyBHKr9Ne5h9JSBlOYbz9eG7cF6RvmmcNOA",
-  authDomain: "trainerapp-680f2.firebaseapp.com",
-  projectId: "trainerapp-680f2",
-  storageBucket: "trainerapp-680f2.firebasestorage.app",
-  messagingSenderId: "650387343736",
-  appId: "1:650387343736:web:5afa5b270c4159be91608d"
+apiKey: "",
+  authDomain: "",
+  projectId: ",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 let app: FirebaseApp;
