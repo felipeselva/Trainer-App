@@ -35,6 +35,7 @@ O projeto está em desenvolvimento ativo. Abaixo o status das principais funcion
 - Node.js instalado.
 - Gerenciador de pacotes (NPM ou Yarn).
 - App Expo Go no celular ou emulador configurado.
+- Configurar o FireBase
 
 ### Instalação
 
